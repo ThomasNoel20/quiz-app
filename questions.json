@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "answers": ["Paris", "Lyon", "Marseille", "Toulouse"],
+    "correct": 0
+  },
+  {
+    "question": "Combien de continents y a-t-il ?",
+    "answers": ["5", "6", "7", "8"],
+    "correct": 2
+  },
+  {
+    "question": "Quelle couleur obtient-on en mélangeant du bleu et du jaune ?",
+    "answers": ["Vert", "Orange", "Violet", "Rouge"],
+    "correct": 0
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "answers": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+    "correct": 3
+  },
+  {
+    "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+    "answers": ["1965", "1969", "1972", "1959"],
+    "correct": 1
+  },
+  {
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "answers": ["H2O", "CO2", "NaCl", "O2"],
+    "correct": 0
+  },
+  {
+    "question": "Qui a écrit 'Les Misérables' ?",
+    "answers": ["Victor Hugo", "Émile Zola", "Albert Camus", "Marcel Proust"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle planète est connue comme la planète rouge ?",
+    "answers": ["Vénus", "Mars", "Jupiter", "Saturne"],
+    "correct": 1
+  },
+  {
+    "question": "Quel est l'organe principal du système respiratoire ?",
+    "answers": ["Cœur", "Foie", "Poumons", "Reins"],
+    "correct": 2
+  },
+  {
+    "question": "Quelle langue est la plus parlée dans le monde ?",
+    "answers": ["Anglais", "Mandarin", "Espagnol", "Hindi"],
+    "correct": 1
+  },
+  {
+    "question": "Quel pays est surnommé le pays du Soleil Levant ?",
+    "answers": ["Chine", "Japon", "Corée du Sud", "Thaïlande"],
+    "correct": 1
+  },
+  {
+    "question": "Quel est l’élément chimique dont le symbole est 'Au' ?",
+    "answers": ["Argent", "Or", "Aluminium", "Fer"],
+    "correct": 1
+  },
+  {
+    "question": "Qui a peint la Joconde ?",
+    "answers": ["Michel-Ange", "Léonard de Vinci", "Raphaël", "Donatello"],
+    "correct": 1
+  },
+  {
+    "question": "Quelle est la plus grande planète du système solaire ?",
+    "answers": ["Saturne", "Jupiter", "Neptune", "Uranus"],
+    "correct": 1
+  },
+  {
+    "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+    "answers": ["1987", "1989", "1991", "1993"],
+    "correct": 1
+  },
+  {
+    "question": "Quel est l’organe responsable de la digestion des graisses ?",
+    "answers": ["Estomac", "Pancréas", "Foie", "Intestin grêle"],
+    "correct": 2
+  },
+  {
+    "question": "Combien de joueurs y a-t-il dans une équipe de football sur le terrain ?",
+    "answers": ["9", "10", "11", "12"],
+    "correct": 2
+  },
+  {
+    "question": "Quel est le plus petit pays du monde ?",
+    "answers": ["Monaco", "Malte", "Vatican", "Liechtenstein"],
+    "correct": 2
+  },
+  {
+    "question": "Qui a découvert la pénicilline ?",
+    "answers": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Isaac Newton"],
+    "correct": 1
+  },
+  {
+    "question": "Quel est le symbole chimique du potassium ?",
+    "answers": ["P", "K", "Po", "Pt"],
+    "correct": 1
+  },
+  {
+    "question": "Quelle est la capitale de l'Australie ?",
+    "answers": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correct": 2
+  },
+  {
+    "question": "Quel animal est le plus rapide sur terre ?",
+    "answers": ["Guépard", "Lion", "Léopard", "Tigre"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle est la langue officielle du Brésil ?",
+    "answers": ["Espagnol", "Portugais", "Anglais", "Français"],
+    "correct": 1
+  },
+  {
+    "question": "Quel est le nombre de pattes d’une araignée ?",
+    "answers": ["6", "8", "10", "12"],
+    "correct": 1
+  },
+  {
+    "question": "Qui a écrit 'Roméo et Juliette' ?",
+    "answers": ["William Shakespeare", "Charles Dickens", "Victor Hugo", "Jane Austen"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle est la planète la plus proche du Soleil ?",
+    "answers": ["Vénus", "Mercure", "Mars", "Terre"],
+    "correct": 1
+  },
+  {
+    "question": "Quel pays a organisé la Coupe du Monde de football en 2018 ?",
+    "answers": ["Brésil", "Russie", "France", "Allemagne"],
+    "correct": 1
+  },
+  {
+    "question": "Quelle est la vitesse de la lumière ? (en km/s)",
+    "answers": ["300 000", "150 000", "1 000 000", "299 792"],
+    "correct": 3
+  },
+  {
+    "question": "Quel est le principal gaz responsable de l'effet de serre ?",
+    "answers": ["Oxygène", "Azote", "Dioxyde de carbone", "Hydrogène"],
+    "correct": 2
+  },
+  {
+    "question": "Quel est le pays le plus peuplé au monde ?",
+    "answers": ["Inde", "États-Unis", "Chine", "Indonésie"],
+    "correct": 2
+  }
+]

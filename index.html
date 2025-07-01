@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mini Quiz Interactif</title>
+  <!-- Suppression du <style> et ajout du lien vers style.css -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>Mini Quiz</h1>
+
+  <div id="progressContainer">
+    <div id="progressBar"></div>
+  </div>
+
+  <div id="quiz-container"></div>
+
+  <div class="navigation">
+    <button id="prevBtn">Précédent</button>
+    <button id="nextBtn">Suivant</button>
+  </div>
+
+  <div id="result"></div>
+
+  <button id="restartBtn">Recommencer</button>
+
+  <script src="questions.js"></script>
+  <script src="quiz.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+
+</body>
+</html>
